@@ -1,11 +1,11 @@
 {
-  "cargadores": [
+  "chargers": [
     {
       "id": 1,
       "nombre": "Cargador 1"
     }
   ],
-  "eventosDeCarga": [
+  "events": [
     {
       "id": 1,
       "nombre": "Homero",
@@ -14,7 +14,7 @@
       "patente": "GK SB 78",
       "marca": "King Long",
       "modelo": "KL1122334455",
-      "cargadorId": 1
+      "chargerId": 1
     }
   ]
 }
