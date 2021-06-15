@@ -1,0 +1,24 @@
+{
+  "cargadores": [
+    {
+      "id": 1,
+      "nombre": "Cargador 1"
+    }
+  ],
+  "eventosDeCarga": [
+    {
+      "id": 1,
+      "usuario": {
+        "nombre": "Homero",
+        "apellido": "Simpson",
+        "email": "test@test.cl"
+      },
+      "vehiculo": {
+        "patente": "GK SB 78",
+        "marca": "King Long",
+        "modelo": "KL1122334455",
+      }
+      "cargadorId": 1,
+    }
+  ]
+}
