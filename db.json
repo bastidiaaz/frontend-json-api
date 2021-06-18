@@ -8,6 +8,8 @@
   "events": [
     {
       "id": 1,
+      "inicio": "09:00:00",
+      "fin": "11:00:00",
       "nombre": "Homero",
       "apellido": "Simpson",
       "email": "test@test.cl",
